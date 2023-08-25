@@ -1,0 +1,6 @@
+Nombre: Lucas Forni.
+Comision: 1AT.
+Testeado en https://validator.w3.org .
+horas dedicadas aproximadamente 15 hs.
+
+resolucion: 1920x1080
